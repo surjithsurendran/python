@@ -10,4 +10,4 @@ data="Hello I'm Surjith"
 qr.add_data(data)
 qr.make(fit=True)
 img=qr.make_image(fill="black",black_color="white")
-img.save("qr5.png")
+img.save("qr6.png")
